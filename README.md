@@ -1,2 +1,2 @@
 # angielskie
-Angielskie repozytorium publiczne.
+Angielskie repozytorium publiczne złożone z nowych techmologii.
